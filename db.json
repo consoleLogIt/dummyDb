@@ -1,5 +1,5 @@
 
-const campaigns = [
+[
   {
     name: "website Promotion - Landing",
     status: "success",
@@ -27,8 +27,8 @@ const campaigns = [
     createdAt: "2021-06-12T18:30:00.000Z",
     method: "URL Override",
     media: "Video",
-  },
-];
+  }
+]
 
 
 
