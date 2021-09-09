@@ -1,31 +1,31 @@
 { "data": [
   {
-    "name": "website Promotion - Landing",
+    "name": "website promotion - landing",
     "status": "success",
     "createdAt": "2021-06-16T18:30:00.000Z",
-    "method": "CSV",
-    "media": "Video"
+    "method": "csv",
+    "media": "audio"
   },
   {
-    "name": "App Download",
+    "name": "app download",
     "status": "failed",
     "createdAt": "2021-06-14T18:30:00.000Z",
-    "method": "URl Override",
-    "media": "Video"
+    "method": "url override",
+    "media": "video"
   },
   {
-    "name": "Social Media Promotion",
+    "name": "social media promotion",
     "status": "success",
     "createdAt": "2021-06-13T18:30:00.000Z",
-    "method": "CSV",
-    "media": "Video"
+    "method": "csv",
+    "media": "video"
   },
   {
-    "name": "Linkedin Templates",
+    "name": "linkedin templates",
     "status": "failed",
     "createdAt": "2021-06-12T18:30:00.000Z",
-    "method": "URL Override",
-    "media": "Video"
+    "method": "url override",
+    "media": "video"
   }
 ]
 }
